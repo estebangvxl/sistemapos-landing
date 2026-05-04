@@ -146,4 +146,4 @@ Para soporte técnico o preguntas sobre el proyecto:
 
 - **Email**: atencionsystempos@gmail.com
 - **WhatsApp**: +57 300 2390 552
-- **Web**: [SystemPOS Colombia](https://systempos.com.co)
+- **Web**: [SystemPOS Colombia](https://sistemapos-landing.vercel.app/)
